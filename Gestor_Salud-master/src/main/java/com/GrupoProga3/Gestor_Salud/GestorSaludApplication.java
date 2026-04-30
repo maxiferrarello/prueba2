@@ -8,8 +8,10 @@ public class GestorSaludApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestorSaludApplication.class, args);
+
+        System.out.println("hola");
 	}
 
-dsadas
+
 
 }
