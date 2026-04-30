@@ -14,7 +14,7 @@ public class GestorSaludApplication {
 
         System.out.println("chau");
 
-        System.out.println("nos vemosss");
+        System.out.println("adioos");
 
 	}
 
