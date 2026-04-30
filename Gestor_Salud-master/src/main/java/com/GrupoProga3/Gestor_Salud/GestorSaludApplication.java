@@ -10,6 +10,9 @@ public class GestorSaludApplication {
 		SpringApplication.run(GestorSaludApplication.class, args);
 
         System.out.println("hola");
+
+
+        System.out.println("chau");
 	}
 
 
