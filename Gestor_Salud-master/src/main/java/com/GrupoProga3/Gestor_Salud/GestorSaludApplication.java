@@ -26,7 +26,7 @@ public class GestorSaludApplication {
         System.out.println("chau estoy se borra?");
 
 
-        System.out.println("lo subo a main esto. esta listo!");
+        System.out.println("lo subo a main esto. esta listo!!");
 
     }
 
