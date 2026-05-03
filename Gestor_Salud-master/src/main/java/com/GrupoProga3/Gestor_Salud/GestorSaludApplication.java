@@ -9,12 +9,10 @@ public class GestorSaludApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GestorSaludApplication.class, args);
 
-        System.out.println("hola");
+        System.out.println("maxiiiii");
 
+        System.out.println("dsadaaadsasdadsadsadasdas");
 
-        System.out.println("chau");
-
-        System.out.println("jajaja");
 
 	}
 
